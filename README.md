@@ -1,3 +1,3 @@
 # Independent Study Project
 
-This repository contains projects on the bucket list
+This repository contains project about bucketlist websites
